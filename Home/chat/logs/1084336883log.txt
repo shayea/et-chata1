@@ -1,0 +1,104 @@
+[ Mon Feb  6 15:49:47 2017 ]=>  H0sSeIN یه ادم ساده [242057305] added Log_SuperGroup
+ 
+[ Mon Feb  6 16:15:11 2017 ]=>  H0sSeIN یه ادم ساده [242057305] added SuperGroup
+ 
+[ Mon Feb  6 16:16:28 2017 ]=>  H0sSeIN یه ادم ساده [242057305] requested SuperGroup ID
+ 
+[ Mon Feb  6 16:16:51 2017 ]=>  H0sSeIN یه ادم ساده [242057305] requested SuperGroup info
+ 
+[ Mon Feb  6 16:17:01 2017 ]=>  H0sSeIN یه ادم ساده [242057305] requested group modlist
+ 
+[ Mon Feb  6 16:17:38 2017 ]=>  H0sSeIN یه ادم ساده [242057305] requested SuperGroup settings 
+ 
+[ Mon Feb  6 16:17:53 2017 ]=>  H0sSeIN یه ادم ساده [242057305] locked fosh
+ 
+[ Mon Feb  6 16:18:57 2017 ]=>  H0sSeIN یه ادم ساده [242057305] unlocked fosh
+ 
+[ Mon Feb  6 16:19:16 2017 ]=>  H0sSeIN یه ادم ساده [242057305] set SuperGroup to: mute All
+ 
+[ Mon Feb  6 16:20:00 2017 ]=>  H0sSeIN یه ادم ساده [242057305] requested SuperGroup settings 
+ 
+[ Mon Feb  6 16:35:13 2017 ]=>  H0sSeIN یه ادم ساده [242057305] requested group link [https://t.me/joinchat/AAAAAEChqvNe8aqAU1tGmg]
+ 
+[ Mon Feb  6 16:46:07 2017 ]=>  H0sSeIN یه ادم ساده [242057305] resolved username: @Khanoomam_eshqme_pa_bzn_jda_shim
+ 
+[ Mon Feb  6 17:19:21 2017 ]=>  H0sSeIN یه ادم ساده [242057305] requested SuperGroup settings 
+ 
+[ Mon Feb  6 17:21:30 2017 ]=>  H0sSeIN یه ادم ساده [242057305] requested SuperGroup ID
+ 
+[ Mon Feb  6 18:07:52 2017 ]=>  H0sSeIN یه ادم ساده [242057305] requested SuperGroup settings 
+ 
+[ Mon Feb  6 18:08:08 2017 ]=>  H0sSeIN یه ادم ساده [242057305] locked emoji
+ 
+[ Mon Feb  6 18:09:41 2017 ]=>  H0sSeIN یه ادم ساده [242057305] set SuperGroup to: unmute All
+ 
+[ Mon Feb  6 18:16:01 2017 ]=>  H0sSeIN یه ادم ساده [242057305] locked disabled emoji
+ 
+[ Mon Feb  6 18:19:42 2017 ]=>  H0sSeIN_یه_ادم_ساده [242057305] requested group stats 
+ 
+[ Mon Feb  6 18:19:50 2017 ]=>  H0sSeIN_یه_ادم_ساده [242057305] requested group stats 
+ 
+[ Tue Feb  7 04:29:10 2017 ]=>  H0sSeIN یه ادم ساده [242057305] requested SuperGroup ID
+ 
+[ Tue Feb  7 04:35:37 2017 ]=>  H0sSeIN یه ادم ساده [242057305] requested SuperGroup info
+ 
+[ Tue Feb  7 04:40:56 2017 ]=>  H0sSeIN یه ادم ساده [242057305] requested SuperGroup settings 
+ 
+[ Tue Feb  7 04:43:00 2017 ]=>  H0sSeIN یه ادم ساده [242057305] set flood to [20]
+ 
+[ Tue Feb  7 04:46:40 2017 ]=>  H0sSeIN یه ادم ساده [242057305] requested SuperGroup info
+ 
+[ Tue Feb  7 04:47:56 2017 ]=>  H0sSeIN یه ادم ساده [242057305] kicked: @IM_tAkRo [164076510]
+ 
+[ Tue Feb  7 04:48:27 2017 ]=>  H0sSeIN یه ادم ساده [242057305] invited @IM_tAkRo
+ 
+[ Tue Feb  7 12:05:31 2017 ]=>  H0sSeIN یه ادم ساده [242057305] requested SuperGroup settings 
+ 
+[ Tue Feb  7 12:06:19 2017 ]=>  H0sSeIN یه ادم ساده [242057305] requested SuperGroup ID
+ 
+[ Tue Feb  7 12:06:56 2017 ]=>  H0sSeIN یه ادم ساده [242057305] requested group modlist
+ 
+[ Tue Feb  7 12:07:01 2017 ]=>  H0sSeIN یه ادم ساده [242057305] requested SuperGroup Admins list
+ 
+[ Tue Feb  7 12:22:59 2017 ]=>  H0sSeIN یه ادم ساده [242057305] set SuperGroup to: mute All
+ 
+[ Tue Feb  7 12:23:40 2017 ]=>  H0sSeIN یه ادم ساده [242057305] set SuperGroup to: unmute All
+ 
+[ Tue Feb  7 14:11:49 2017 ]=>  H0sSeIN یه ادم ساده [242057305] requested SuperGroup settings 
+ 
+[ Tue Feb  7 14:50:28 2017 ]=>  H0sSeIN یه ادم ساده [242057305] requested SuperGroup ID
+ 
+[ Tue Feb  7 14:51:45 2017 ]=>  H0sSeIN یه ادم ساده [242057305] promoted @Khaleq_the_bot
+ 
+[ Tue Feb  7 14:53:01 2017 ]=>  H0sSeIN یه ادم ساده [242057305] requested SuperGroup settings 
+ 
+[ Tue Feb  7 14:53:24 2017 ]=>  H0sSeIN یه ادم ساده [242057305] obtained id for: [174719539]
+ 
+[ Tue Feb  7 14:54:28 2017 ]=>  H0sSeIN یه ادم ساده [242057305] requested SuperGroup ID
+ 
+[ Tue Feb  7 14:56:21 2017 ]=>  H0sSeIN یه ادم ساده [242057305] requested SuperGroup settings 
+ 
+[ Tue Feb  7 15:41:38 2017 ]=>  ✠͕̲͗𝓶͕͕̲͗͗𝓞͕͕̲͗͗𝓱͕͕̲͗͗𝓐͕͕̲͗͗𝓶͕͕̲͗͗ℳ͕͕̲͗͗𝓪͕͕̲͗͗𝓓͕͕̲͗͗𝓻͕͕̲͗͗𝓔͕͕̲͗͗𝔃͕͕̲͗͗𝓐͕̲͗ ͕̲͗ℳ͕͕̲͗͗.͕͕̲͗͗𝟐͕̲͗ ͕̲͗𝓢͕͕̲͗͗𝒆͕͕̲͗͗𝓩͕͕̲͗͗𝓪͕͕̲͗͗ℛ͕͗ ‌ًٌٍٍٍََََُُِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِّّْٰٖٖٖٔٓٓٓٓٔٓ ✠͗ 👑farmande Ɦᴇʟʟ👑[H][a][n][s]™↭💀sнøʀεsнɪ💀 📛se乙ar📛™‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌‌  ‌ ‌ ‌ ‌  ‌  ‌  ‌  ‌  ‌  ‌  ‌  ‌  ‌  ‌  ‌  ‌  ‌  ‌  ‌  ‌  ‌  ‌  ‌  ‌  ‌  ‌  ‌  ‌  ‌  ‌  ‌  ‌  ‌  ‌  ‌  ‌  ‌  ‌  ‌  ‌ [142244107] requested SuperGroup ID
+ 
+[ Tue Feb  7 16:13:38 2017 ]=>  H0sSeIN یه ادم ساده [242057305] requested SuperGroup settings 
+ 
+[ Tue Feb  7 16:14:33 2017 ]=>  H0sSeIN یه ادم ساده [242057305] requested SuperGroup ID
+ 
+[ Tue Feb  7 16:24:39 2017 ]=>  H0sSeIN یه ادم ساده [242057305] requested SuperGroup ID
+ 
+[ Tue Feb  7 16:47:51 2017 ]=>  H0sSeIN یه ادم ساده [242057305] obtained id for: [308162518]
+ 
+[ Wed Feb  8 06:38:15 2017 ]=>  H0sSeIN یه ادم ساده [242057305] locked sticker posting
+ 
+[ Wed Feb  8 07:22:46 2017 ]=>  H0sSeIN یه ادم ساده [242057305] unlocked sticker posting
+ 
+[ Wed Feb  8 07:29:30 2017 ]=>  H0sSeIN یه ادم ساده [242057305] requested SuperGroup settings 
+ 
+[ Wed Feb  8 07:49:48 2017 ]=>  H0sSeIN یه ادم ساده [242057305] requested SuperGroup Admins list
+ 
+[ Wed Feb  8 07:51:38 2017 ]=>  H0sSeIN یه ادم ساده [242057305] requested group modlist
+ 
+[ Wed Feb  8 07:51:49 2017 ]=>  H0sSeIN یه ادم ساده [242057305] requested SuperGroup bots list
+ 
+[ Wed Feb  8 08:08:20 2017 ]=>  H0sSeIN یه ادم ساده [242057305] requested SuperGroup settings 
+ 

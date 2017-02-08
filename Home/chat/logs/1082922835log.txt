@@ -1,0 +1,6 @@
+[ Mon Feb  6 17:01:23 2017 ]=>  H0sSeIN یه ادم ساده [242057305] added SuperGroup
+ 
+[ Mon Feb  6 17:03:05 2017 ]=>  H0sSeIN یه ادم ساده [242057305] locked link posting 
+ 
+[ Tue Feb  7 04:27:04 2017 ]=>  H0sSeIN یه ادم ساده [242057305] requested SuperGroup ID
+ 
